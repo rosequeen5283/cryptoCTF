@@ -1,12 +1,13 @@
-Here's a little poem:
-
-You have come for information.
-I can tell you useful files.
-But there's an issue - you must find
-Every single file now.
-On the path that is correct,
-Every file you must check.
-There's no hints, but I'll say;
-The loop ends at kangaroo.
-But unless you want an incomplete flag,
-You'll have to work harder than that.
+c
+h
+a
+l
+l
+e
+n
+g
+e
+.
+t
+x
+t
